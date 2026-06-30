@@ -1,0 +1,88 @@
+canonical_identifier: bkk:krp/KR4d0137/v1
+canonical_location: https://kanripo.org/bkk/KR4d0137/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 龜山先生語錄
+  date: '2015-09-12 00:16:16.586965'
+  source:
+    repository: kanripo
+    path: KR4d0137
+  base_edition: SBCK
+  edition:
+    short: bkk
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+editions:
+- short: SBCK
+  label: 【四部叢刊】
+assets:
+  parts:
+  - {seq: 0, filename: KR4d0137_000.yaml, hash: 'sha256:398f89686e59e89f9b6dac8f943db63cede8bf3eb042856dc003eafd4d6f4f49'}
+  - {seq: 1, filename: KR4d0137_001.yaml, hash: 'sha256:0a636ac8ce70066bbd607a6936a7755a39fece13f412eb4fba667a9425e97d5c'}
+  - {seq: 2, filename: KR4d0137_002.yaml, hash: 'sha256:b99d58482018257944e628a3c69af09eebe0d92530a09c629cb9dffde7ad5815'}
+  - {seq: 3, filename: KR4d0137_003.yaml, hash: 'sha256:a9e710a3f5336c4e4445798173bc879a27f3ff47789f9c964c8969bce0194c3e'}
+  - {seq: 4, filename: KR4d0137_004.yaml, hash: 'sha256:56b1fca039e5d9c996ab8ab5e3a8af422eb74c9eef9af2409722c54d75e20952'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR4d0137_000.markers.yaml, hash: 'sha256:a1539afb1d93c522d7f1706e1d4c7c6379f16d842660d49faa45343401632453'}
+  - {seq: 1, role: markers, filename: assets/KR4d0137_001.markers.yaml, hash: 'sha256:a0e8b6fd2722d5b65ca880f0acb4e877fb942438dd3740686a4974c6ea3789f1'}
+  - {seq: 2, role: markers, filename: assets/KR4d0137_002.markers.yaml, hash: 'sha256:d0533f198ec1bc8dbb9fda70e4b776957aaaa00f85f6feff69af48ac21bc7678'}
+  - {seq: 3, role: markers, filename: assets/KR4d0137_003.markers.yaml, hash: 'sha256:3279584b6a294e8a4e154ba444913e4cf3004c99a5772b92fcfd95fe566ab8ee'}
+  - {seq: 4, role: markers, filename: assets/KR4d0137_004.markers.yaml, hash: 'sha256:9c65aa116df7b51941bea9ab97435b8e530b7e7d0f938948789a4a31ce200504'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR4d0137_SBCK_000-1a
+    span:
+    - body
+    - 0
+    - 3349
+  label: juan 000
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR4d0137_SBCK_001-1a
+    span:
+    - body
+    - 0
+    - 8904
+  label: juan 001
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR4d0137_SBCK_002-1a
+    span:
+    - body
+    - 0
+    - 8869
+  label: juan 002
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR4d0137_SBCK_003-1a
+    span:
+    - body
+    - 0
+    - 9222
+  label: juan 003
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR4d0137_SBCK_004-1a
+    span:
+    - body
+    - 0
+    - 8400
+  label: juan 004
+  type: section
+  level: 1
+hash: sha256:d8ed76cfe4b952f419a9ca78a7c7546e20fb979c773f939f028155d3a65b90be
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
