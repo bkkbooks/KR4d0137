@@ -914,6 +914,7 @@ markers:
   - {type: line-break, offset: 2936, content: '', id: KR4d0137_SBCK_002-10a03}
   - {type: indent, offset: 2936, content: 　　, id: KR4d0137_SBCK_002-bkkind106}
   - {type: punctuation, offset: 2940, content: (, id: KR4d0137_SBCK_002-bkkpn1}
+  - {type: voice, offset: 2940, length: 7, name: note, id: n1}
   - {type: punctuation, offset: 2947, content: ), id: KR4d0137_SBCK_002-bkkpn2}
   - {type: 'kr:newline', offset: 2947, content: '
 
@@ -982,6 +983,7 @@ markers:
       ', id: KR4d0137_SBCK_002-bkkkrnewl214}
   - {type: line-break, offset: 3153, content: '', id: KR4d0137_SBCK_002-10b07}
   - {type: punctuation, offset: 3156, content: (, id: KR4d0137_SBCK_002-bkkpn3}
+  - {type: voice, offset: 3156, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 3157, content: ), id: KR4d0137_SBCK_002-bkkpn4}
   - {type: 'kr:newline', offset: 3171, content: '
 
@@ -1026,6 +1028,7 @@ markers:
       ', id: KR4d0137_SBCK_002-bkkkrnewl224}
   - {type: line-break, offset: 3301, content: '', id: KR4d0137_SBCK_002-11a06}
   - {type: punctuation, offset: 3304, content: (, id: KR4d0137_SBCK_002-bkkpn5}
+  - {type: voice, offset: 3304, length: 1, name: note, id: n3}
   - {type: punctuation, offset: 3305, content: ), id: KR4d0137_SBCK_002-bkkpn6}
   - {type: 'kr:newline', offset: 3319, content: '
 
@@ -1833,6 +1836,7 @@ markers:
   - {type: line-break, offset: 5950, content: '', id: KR4d0137_SBCK_002-19a10}
   - {type: indent, offset: 5950, content: 　　　, id: KR4d0137_SBCK_002-bkkind199}
   - {type: punctuation, offset: 5954, content: (, id: KR4d0137_SBCK_002-bkkpn7}
+  - {type: voice, offset: 5954, length: 8, name: note, id: n4}
   - {type: punctuation, offset: 5962, content: ), id: KR4d0137_SBCK_002-bkkpn8}
   - {type: 'kr:newline', offset: 5962, content: '
 
@@ -2760,4 +2764,4 @@ markers:
 
       ', id: KR4d0137_SBCK_002-bkkkrnewl607}
   back: []
-hash: sha256:54295d0458abbaa20c45848b02b11a9d65297968004c8be248f893b4cc967f79
+hash: sha256:405d46cb3a6bd77448ac51d7c72b578a417ba33a4d142c9190d9bfa88dc4f552

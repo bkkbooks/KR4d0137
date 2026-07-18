@@ -13,6 +13,7 @@ markers:
   - {type: line-break, offset: 0, content: '', id: KR4d0137_SBCK_001-1a02}
   - {type: indent, offset: 0, content: 　　　, id: KR4d0137_SBCK_001-bkkind1}
   - {type: punctuation, offset: 4, content: (, id: KR4d0137_SBCK_001-bkkpn1}
+  - {type: voice, offset: 4, length: 6, name: note, id: n1}
   - {type: punctuation, offset: 10, content: ), id: KR4d0137_SBCK_001-bkkpn2}
   - {type: 'kr:newline', offset: 10, content: '
 
@@ -258,6 +259,7 @@ markers:
   - {type: line-break, offset: 781, content: '', id: KR4d0137_SBCK_001-3a10}
   - {type: indent, offset: 781, content: 　, id: KR4d0137_SBCK_001-bkkind36}
   - {type: punctuation, offset: 785, content: (, id: KR4d0137_SBCK_001-bkkpn3}
+  - {type: voice, offset: 785, length: 3, name: note, id: n2}
   - {type: punctuation, offset: 787, content: /, id: KR4d0137_SBCK_001-bkkpn4}
   - {type: punctuation, offset: 788, content: ), id: KR4d0137_SBCK_001-bkkpn5}
   - {type: 'kr:newline', offset: 800, content: '
@@ -329,6 +331,7 @@ markers:
   - {type: line-break, offset: 987, content: '', id: KR4d0137_SBCK_001-4a02}
   - {type: indent, offset: 987, content: 　, id: KR4d0137_SBCK_001-bkkind48}
   - {type: punctuation, offset: 999, content: (, id: KR4d0137_SBCK_001-bkkpn6}
+  - {type: voice, offset: 999, length: 4, name: note, id: n3}
   - {type: punctuation, offset: 1003, content: ), id: KR4d0137_SBCK_001-bkkpn7}
   - {type: 'kr:newline', offset: 1003, content: '
 
@@ -1098,6 +1101,7 @@ markers:
   - {type: line-break, offset: 3508, content: '', id: KR4d0137_SBCK_001-11b08}
   - {type: indent, offset: 3508, content: 　, id: KR4d0137_SBCK_001-bkkind131}
   - {type: punctuation, offset: 3518, content: (, id: KR4d0137_SBCK_001-bkkpn8}
+  - {type: voice, offset: 3518, length: 2, name: note, id: n4}
   - {type: punctuation, offset: 3519, content: /, id: KR4d0137_SBCK_001-bkkpn9}
   - {type: punctuation, offset: 3520, content: ), id: KR4d0137_SBCK_001-bkkpn10}
   - {type: 'kr:newline', offset: 3526, content: '
@@ -2752,4 +2756,4 @@ markers:
 
       ', id: KR4d0137_SBCK_001-bkkkrnewl607}
   back: []
-hash: sha256:7c3203617846435fb51bc030da3d87231db1d277f9bc67f3913b3a021c0b78e2
+hash: sha256:22381a0c4a1278c2234a89974739aa63ac17e4f07f2e743f69ea1a8686e0e866
